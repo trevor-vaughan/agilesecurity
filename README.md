@@ -1,5 +1,3 @@
-Agile Security
-==================
 Despite decades of investment, traditional reactive cybersecurity approaches such as firewalls, anti-virus, and analytics continue to fail to keep systems secure. Agile Security seeks to create software that is fundamentally resilient to cyberattacks yet practical and easy to implement.
 
 These seven principles are guideposts to implementing agile security for software systems, from Internet of Things to cloud applications. A truly secure software system employs all seven, as each principle reinforces the others. As with Agile Engineering approaches, however, it is still worthwhile to incrementally adopt these principles.
